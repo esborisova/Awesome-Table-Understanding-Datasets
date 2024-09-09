@@ -1,4 +1,4 @@
-# Awesome-Datasets-for-Table-Understanding <img src="icon.png" alt="drawing" width="60"/>
+# Awesome-Table-Understanding-Datasets <img src="icon.png" alt="drawing" width="60"/>
 <a><img src='https://img.shields.io/badge/PRs-welcome-lightgreen'></a>
 
 
