@@ -1,7 +1,7 @@
 # Awesome Table Understanding Datasets <img src="icon.png" alt="drawing" width="60"/>
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a><img src='https://img.shields.io/badge/PRs-welcome-lightgreen'></a>
 
-A curated list of datasets for table understanding tasks. Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
+A curated list of datasets which can be either directly used or adopted for various table understanding tasks. Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
 
 The repository will be continuously updated ✏️. If you find this resource useful for your research, just click the ⭐️ and stay tuned!
 
@@ -37,6 +37,9 @@ The repository will be continuously updated ✏️. If you find this resource us
 |OTT-QA <img src='https://img.shields.io/badge/arXiv-2021-darkred'> <a href='https://arxiv.org/abs/2010.10439'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wenhuchen/OTT-QA'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Question answering</li></ul>|400K tables|Text|Real world|
 |HybridQA <img src='https://img.shields.io/badge/ACL-2020-red'> <a href='https://aclanthology.org/2020.findings-emnlp.91/'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wenhuchen/HybridQA'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Question answering</li></ul>|13K tables and 70K QA pairs|Text|Real world|
 |FEVEROUS <img src='https://img.shields.io/badge/ACL-2021-red'> <a href='https://aclanthology.org/2021.fever-1.1/'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://fever.ai/dataset/feverous.html'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Fact extraction and verification</li></ul>|87K claims|Text|Real world|
+|TableBank <img src='https://img.shields.io/badge/ELRA-2020-purple'> <a href='https://aclanthology.org/2020.lrec-1.236/'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://huggingface.co/datasets/liminghao1630/TableBank'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Word documents from the internet</li><li>LaTex documents from arXiv</li></ul>|<ul><li>Table detection and recognition</li></ul>|417K tables|Image|Real world|
+|PubTabNet <img src='https://img.shields.io/badge/arXiv-2020-darkred'> <a href='https://arxiv.org/abs/1911.10683'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/ibm-aur-nlp/PubTabNet'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from PubMed</li></ul>|<ul><li>Table detection and recognition</li></ul>|568K tables|Image|Real world|
+|PubLayNet <img src='https://img.shields.io/badge/arXiv-2020-darkred'> <a href='https://arxiv.org/abs/1908.07836'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/ibm-aur-nlp/PubLayNet'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from PubMed</li></ul>|<ul><li>Document layout recognition</li></ul>|94K pages with tables and 113K tables|Image|Real world|
 
 
 
