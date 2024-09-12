@@ -3,7 +3,7 @@
 
 A curated list of datasets for table understanding tasks. Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
 
-The repository will be continuously updated ✏️. If you find this resource useful for your research, just click the ⭐️ and stay tuned! Thank you!
+The repository will be continuously updated ✏️. If you find this resource useful for your research, just click the ⭐️ and stay tuned!
 
 
 | Dataset     | Source             | Task(s)           | Size          | Modality| Origin  |
@@ -35,6 +35,7 @@ The repository will be continuously updated ✏️. If you find this resource us
 |WikiSQL <img src='https://img.shields.io/badge/arXiv-2017-darkred'> <a href='https://arxiv.org/pdf/1709.00103'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/salesforce/WikiSQL'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Text-to-SQL/Question answering</li></ul>|24.2K tables|Text|Real world|
 |Spider 1.0 <img src='https://img.shields.io/badge/ACL-2018-red'> <a href='https://aclanthology.org/D18-1425.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://yale-lily.github.io/spider'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>College database courses<li>DatabaseAnswers</li><li>Wikipedia</li></ul>|<ul><li>Text-to-SQL/Question answering</li></ul>|N/A|Text|Real world|
 |OTT-QA <img src='https://img.shields.io/badge/arXiv-2021-darkred'> <a href='https://arxiv.org/pdf/2010.10439'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wenhuchen/OTT-QA'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Question answering</li></ul>|400K tables|Text|Real world|
+|HybridQA <img src='https://img.shields.io/badge/ACL-2020-red'> <a href='https://aclanthology.org/2020.findings-emnlp.91.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wenhuchen/HybridQA'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Question answering</li></ul>|13K tables|Text|Real world|
 
 
 
