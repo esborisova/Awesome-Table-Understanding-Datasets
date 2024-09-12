@@ -1,6 +1,9 @@
 # Awesome Table Understanding Datasets <img src="icon.png" alt="drawing" width="60"/>
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a><img src='https://img.shields.io/badge/PRs-welcome-lightgreen'></a>
 
+A curated list of datasets for table understanding tasks. Note that some of the datasets only provide metadata, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
+
+The repository will be continuously updated ✏️. If you find this resource useful for your research, just click the ⭐️ and stay tuned! Thank you!
 
 
 | Dataset     | Source             | Task(s)           | Size          | Modality| Origin  |
@@ -21,3 +24,9 @@
 |LogicNLG <img src='https://img.shields.io/badge/ACL-2020-red'> <a href='https://aclanthology.org/2020.acl-main.708.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wenhuchen/LogicNLG'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Logical natural language generation</li></ul>|7.3K tables|Text|Real world|
 |TabIS <img src='https://img.shields.io/badge/ACL-2024-red'> <a href='https://aclanthology.org/2024.findings-acl.82.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/coszero/TabIS'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li><li>Statistical reports from Statistics Canada and National Science Foundation</ul>|<ul><li>Information seeking from tables</li></ul>|61K tables|Text|Real world|
 |DataBench <img src='https://img.shields.io/badge/LREC-2024-purple'> <a href='https://aclanthology.org/2024.lrec-main.1179.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://huggingface.co/datasets/cardiffnlp/databench'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Forbes</li><li>Kaggle</li><li>Graphext</li><li>City of New York</li><li>US Gov</li><li>Inside Airbnb</li><li>Data World</li><li>AEMET</li><li>INE</li><li>TrustPilot </li><li>World Happiness</li><li>Brown University</li><li>US Census</li><li>X</li><li>SBA</li><li>Spotify</li><li>BigQuery</li><li>CIS</li><li>Brandwatch</li><li>DataMarket</li><li>UCI ML</li><li>[Kern et al, PNAS’20](https://github.com/behavioral-ds/VocationMap)</li></ul>|<ul><li>Question answering</li></ul>|56K tables|Text|Real world|
+|GitTables <img src='https://img.shields.io/badge/ACM-2023-darkblue'> <a href='https://dl.acm.org/doi/10.1145/3588710'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://gittables.github.io'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>GitHub</li></ul>|<ul><li>Semantic column type detection</li><li>Schema compilation</li></ul>|1M tables|Text|Real world| 
+
+# Contributing 
+
+Feel free to create a pull request if you would like to add other awesome datasets.
+
