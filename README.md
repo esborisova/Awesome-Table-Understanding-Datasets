@@ -40,6 +40,8 @@ The repository will be continuously updated ✏️. If you find this resource us
 |TableBank <img src='https://img.shields.io/badge/ELRA-2020-purple'> <a href='https://aclanthology.org/2020.lrec-1.236/'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://huggingface.co/datasets/liminghao1630/TableBank'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Word documents from the internet</li><li>LaTex documents from arXiv</li></ul>|<ul><li>Table detection and recognition</li></ul>|417K tables|Image|Real world|
 |PubTabNet <img src='https://img.shields.io/badge/arXiv-2020-darkred'> <a href='https://arxiv.org/abs/1911.10683'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/ibm-aur-nlp/PubTabNet'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from PubMed</li></ul>|<ul><li>Table detection and recognition</li></ul>|568K tables|Image|Real world|
 |PubLayNet <img src='https://img.shields.io/badge/arXiv-2020-darkred'> <a href='https://arxiv.org/abs/1908.07836'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/ibm-aur-nlp/PubLayNet'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from PubMed</li></ul>|<ul><li>Document layout recognition</li></ul>|94K pages with tables and 113K tables|Image|Real world|
+|FinTabNet <img src='https://img.shields.io/badge/WACV-2021-pink'> <a href='https://www.computer.org/csdl/proceedings-article/wacv/2021/047700a697/1uqGJGAB5EA'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://developer.ibm.com/data/fintabnet/#use-the-dataset4'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Earnings reports of S&P 500 companies</li></ul>|<ul><li>Table structure recognition</li></ul>|89K pages and 112.8K tables|Image|Real world|
+|WTW <img src='https://img.shields.io/badge/arXiv-2021-darkred'> <a href='https://arxiv.org/abs/2109.02199'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/wangwen-whu/wtw-dataset'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Images from natural scenes</li><li>Archival document images</li><li>Printed document images</li></ul>|<ul><li>Table structure recognition</li></ul>|14.5K tables|Image|Real world|
 
 
 
@@ -47,6 +49,5 @@ The repository will be continuously updated ✏️. If you find this resource us
 
 # Contributing 
 
-
-Feel free to create a pull request if you would like to add other awesome datasets.
+Feel free to create a pull request or to open an issue if you would like to add other awesome datasets.
 
