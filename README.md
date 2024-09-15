@@ -3,7 +3,7 @@
 
 A curated list of datasets which can be either directly used or adopted for various table understanding tasks. 
 
-❗Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
+Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
 
 The repository will be continuously updated ✏️. If you find this resource useful for your research, just ⭐️ it and stay tuned!
 
