@@ -45,6 +45,8 @@ The repository will be continuously updated ✏️. If you find this resource us
 |SciTSR <img src='https://img.shields.io/badge/arXiv-2019-darkred'> <a href='https://arxiv.org/abs/1908.04729'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/Academic-Hammer/SciTSR?tab=readme-ov-file'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from arXiv</ul>|<ul><li>Table structure recognition</li></ul>|15K tables|Image|Real world|
 |TNCR <img src='https://img.shields.io/badge/Neurocomputing-2022-pink'> <a href='https://dl.acm.org/doi/abs/10.1016/j.neucom.2021.11.101'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/abdoelsayed2016/TNCR_Dataset'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Web</ul>|<ul><li>Table detection</li><li>Table classification</li></ul>|6.6K images and 9.4K tables|Image|Real world|
 |DeepFigures <img src='https://img.shields.io/badge/arXiv-2018-darkred'> <a href='https://arxiv.org/abs/1804.02445'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/allenai/deepfigures-open?tab=readme-ov-file'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from arXiv and PubMed</ul>|<ul><li>Table extraction</li></ul>|1.4M tables|Text|Real world|
+|WikiTableSet <img src='https://img.shields.io/badge/arXiv-2023-darkred'> <a href='https://arxiv.org/abs/2303.07641'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/namtuanly/WikiTableSet'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</ul>|<ul><li>Table Recognition</li></ul>|5M tables|Image|Real world|
+|
 
 
 
