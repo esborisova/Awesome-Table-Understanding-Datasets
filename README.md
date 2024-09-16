@@ -60,7 +60,8 @@ The repository will be continuously updated ✏️. If you find this resource us
 |HardTables <a href='https://zenodo.org/records/6154708'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>N/A</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
 |BiodivTab <a href='https://zenodo.org/records/5584180'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>BExIS6</li><li>BEFChina</li><li>data.world</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
 |BioTable <a href='https://zenodo.org/records/5606585'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>N/A</li></ul>|<ul><li>Semantic table annotation</li></ul>|N/A|Text|
-|SemTab2021 <a href='https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>HardTables<li>Tough Tables</li><li>BioTable<li>BiodivTab</li><li>GitTables</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
+|SemTab2021 <a href='https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>HardTables<li>Tough Tables</li><li>BioTable</li><li>BiodivTab</li><li>GitTables</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
+|SemTab2022 <a href='https://sem-tab-challenge.github.io/2022/'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>HardTables<li>Tough Tables</li><li>BiodivTab</li><li>GitTables</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
 
 
 
