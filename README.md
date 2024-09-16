@@ -62,6 +62,9 @@ The repository will be continuously updated ✏️. If you find this resource us
 |BioTable <a href='https://zenodo.org/records/5606585'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>N/A</li></ul>|<ul><li>Semantic table annotation</li></ul>|N/A|Text|
 |SemTab2021 <a href='https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>HardTables<li>Tough Tables</li><li>BioTable</li><li>BiodivTab</li><li>GitTables</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
 |SemTab2022 <a href='https://sem-tab-challenge.github.io/2022/'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>HardTables<li>Tough Tables</li><li>BiodivTab</li><li>GitTables</li></ul>|<ul><li>Tabular data to knowledge graph matching</li></ul>|N/A|Text|
+|NumDB <img src='https://img.shields.io/badge/EKAW-2018-pink'> <a href='https://link.springer.com/chapter/10.1007/978-3-030-03667-6_11'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://figshare.com/articles/dataset/numdb_0105_zip/6205814/4?file=11283284'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>DBpedia</li></ul>|<ul><li>Semantic labeling</li></ul>|389 tables|Text|
+
+ 
 
 
 
