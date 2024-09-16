@@ -72,7 +72,7 @@ The repository will be continuously updated ✏️. If you find this resource us
 
 
 
-# Contributing 
+# 🛠️ Contributing 
 
 Feel free to create a pull request or to open an issue if you would like to add other awesome datasets.
 
