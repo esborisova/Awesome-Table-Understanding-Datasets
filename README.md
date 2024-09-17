@@ -1,9 +1,9 @@
 # Awesome Table Understanding Datasets <img src="icon.png" alt="drawing" width="60"/>
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a><img src='https://img.shields.io/badge/PRs-welcome-lightgreen'></a>
 
-A curated list of datasets which can be either directly used or adopted for various table understanding tasks. 
+A curated list of datasets that can be directly used or adapted for various table understanding tasks.
 
-Note that some of the datasets only provide metadata and annotations, but not the source files. Also, several datasets have download links that are no longer active. Since this issue may be fixed by the authors in the future, such data is still included in the list.
+Note that some of the datasets provide only metadata and annotations, without the source files. Additionally, several datasets have download links that are no longer active. Since the authors may resolve this issue in the future, these datasets are still included in the list.
 
 The repository will be continuously updated ✏️. If you find this resource useful for your research, just ⭐️ it and stay tuned!
 
