@@ -77,6 +77,8 @@ The repository will be continuously updated ✏️. If you find this resource us
 |CTE <img src='https://img.shields.io/badge/arXiv-2023-red'> <a href='https://arxiv.org/abs/2302.01451'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/AILab-UniFI/cte-dataset#the-cte-dataset'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from PubMed</li></ul>|<ul><li>Contextualized table extraction</ul>|75K pages and 35K tables|Image|
 |TD4CLTabs <img src='https://img.shields.io/badge/NSLP-2024-pink'> <a href='https://link.springer.com/chapter/10.1007/978-3-031-65794-8_3'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://zenodo.org/records/10972922'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Scholary papers from ACL Anthology</li></ul>|<ul><li>Table type classification</li></ul>|13.3K tables|Image|
 |SheetCopilot <img src='https://img.shields.io/badge/NIPS-2023-darkblue'> <a href='https://dl.acm.org/doi/10.5555/3666122.3666342'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/BraveGroup/SheetCopilot'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Spreadsheets from the Web</li></ul>|<ul><li>Entry & manipulation</li><li>Management</li><li>Formatting</li><li>Chart</li><li>Pivot Table</li></ul>|28 workbooks and 221 tasks|Text|
+|MultiModalQA <img src='https://img.shields.io/badge/ICLR-2021-darkblue'> <a href='https://arxiv.org/abs/2104.06039'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/allenai/multimodalqa'><img src='https://img.shields.io/badge/Dataset-lightgreen'></a>|<ul><li>Wikipedia</li></ul>|<ul><li>Question answering</li></ul>|700K tables|Text|
+
 
  
 
